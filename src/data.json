@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Jenny Chan",
+        "username": "Chank",
+        "email": "Edge.chan@email.com",
+        "address": "3 waterfoot road",
+        "phoneNumber": "333-962-7516",
+        "website": "jeny.org"
+    },
+    {
+        "id": 2,
+        "name": "Glenna Reichert",
+        "username": "Delphine",
+        "email": "Chaim_McDermott@dana.io",
+        "address": "Dayna Park Suite 449",
+        "phoneNumber": "788-962-7516",
+        "website": "conrad.com"
+    },
+    {
+        "id": 3,
+        "name": "Tony Frank",
+        "username": "tony",
+        "email": "Gony@frank.net",
+        "address": "11 lesly road",
+        "phoneNumber": "788-962-7516",
+        "website": "frank.com"
+    },
+    {
+        "id": 4,
+        "name": "Jeremy Clark",
+        "username": "Clark",
+        "email": "jeremy.clark@email.com",
+        "address": "333 miltown manor",
+        "phoneNumber": "011-962-111",
+        "website": "jeremy.org"
+    },
+    {
+        "id": 5,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "address": "Victor Plains Suite 879",
+        "phoneNumber": "011-962-111",
+        "website": "anastasia.net"
+    },
+    {
+        "id": 6,
+        "name": "Jessica warren",
+        "username": "warren",
+        "email": "jessi.warren@jas.info",
+        "address": "4 tall town",
+        "phoneNumber": "011-211-7516",
+        "website": "warrenn.com"
+    },
+    {
+        "id": 7,
+        "name": "Raymond Edwards",
+        "username": "Eddy",
+        "email": "raymon.edwards@email.com",
+        "address": "99 blue acres",
+        "phoneNumber": "3231-962-7516",
+        "website": "raymond.in"
+    },
+    {
+        "id": 8,
+        "name": "Kurtis Weissnat",
+        "username": "Elwyn.Skiles",
+        "email": "Telly.Hoeger@billy.biz",
+        "address": "Rex Trail Suite 729",
+        "phoneNumber": "3231-962-7516",
+        "website": "elvis.io"
+    }
+]
