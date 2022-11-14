@@ -71,10 +71,7 @@ td {
 }
 
 
-@media screen and (max-width: 620px) {
-    /* .main{
-        width: 80%;
-    } */
+@media screen and (max-width: 758px) {
     .table{
         margin-top: 10px;
     }
@@ -82,9 +79,24 @@ td {
         font-size: 14px;
     }
     .search{
-        width: 320px;
+        width: 349px;
     }
     .search-box input{
-        width: 318px;
+        width: 347px;
+    }
+}
+
+@media screen and (max-width: 374px) {
+    .table{
+        margin-top: 10px;
+    }
+    th, td{
+        font-size: 12px;
+    }
+    .search{
+        width: 239px;
+    }
+    .search-box input{
+        width: 237px;
     }
 }
